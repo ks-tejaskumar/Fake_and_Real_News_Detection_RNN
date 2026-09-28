@@ -17,21 +17,21 @@ This project implements a Recurrent Neural Network (RNN) model designed to ident
    git clone https://github.com/ks-tejaskumar/Fake_and_Real_News_Detection_RNN.git
    cd Fake_and_Real_News_Detection_RNN
 
-Set up the environment:
+##Set up the environment:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-Usage
+##Usage:
 Train the model: python train.py
 Evaluate performance: python evaluate.py
 Predict news authenticity: python predict.py --input "Paste your headline or news text here"
 
-Performance Metrics
+##Performance Metrics:
 Accuracy: [e.g., 94.5%]
 Precision: [e.g., 0.93]
 Recall: [e.g., 0.94]
 F1-Score: [e.g., 0.93]
 
-Contributing
+##Contributing:
 Contributions are welcome! Please fork the repository and open a pull request.
