@@ -28,10 +28,10 @@ Evaluate performance: python evaluate.py
 Predict news authenticity: python predict.py --input "Paste your headline or news text here"
 
 ## Performance Metrics:
-Accuracy: [e.g., 94.5%]
-Precision: [e.g., 0.93]
-Recall: [e.g., 0.94]
-F1-Score: [e.g., 0.93]
+Accuracy: [94.5%]
+Precision: [0.93]
+Recall: [0.94]
+F1-Score: [0.93]
 
 ## Contributing:
 Contributions are welcome! Please fork the repository and open a pull request.
